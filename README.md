@@ -56,7 +56,7 @@ plt.show()
 ```
 
 ## Output:
-![Screenshot 2024-08-23 233809](https://github.com/user-attachments/assets/4e6c821b-6084-4e1b-8ef7-471c6339be16)
+![Screenshot 2024-08-23 233809](https://github.com/user-attachments/assets/9b714cb3-2e7c-4572-bef1-95947b8a985a)
 
 
 ## Result:
